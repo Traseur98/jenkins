@@ -1,0 +1,30 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Build') {
+            steps {
+                script {
+                    git 'https://github.com/Traseur98/jenkins.git'
+                    
+                    sh 'mvn clean install'
+                }
+            }
+        }
+
+        stage('Run Tests and Check Infracciones') {
+            steps {
+                script {
+                    sh 'java -cp target/mi-proyecto.jar com.tu.paquete.App'
+                }
+            }
+        }
+    }
+
+    post {
+        always {
+            // Publicar resultados
+            junit 'target/surefire-reports/*.xml'
+        }
+    }
+}
