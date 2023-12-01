@@ -1,0 +1,22 @@
+pipeline {
+    agent any
+    stages {
+        stage('Ejemplo') {
+            steps {
+                script {
+                    echo "Pelicula:Film [spectators=100000, rooms=5000, incomings=5.0E8, netIncomings=4.0E8]
+                    echo "Pelicula:Film [spectators=90000, rooms=4500, incomings=4.05E8, netIncomings=3.24E8]
+                    echo "Pelicula:Film [spectators=80000, rooms=4000, incomings=3.2E8, netIncomings=2.56E8]
+                    echo "Pelicula:Film [spectators=70000, rooms=3500, incomings=2.45E8, netIncomings=1.96E8]
+                    echo "Pelicula:Film [spectators=60000, rooms=3000, incomings=1.8E8, netIncomings=1.44E8]
+                    echo "Pelicula:Film [spectators=50000, rooms=2500, incomings=1.25E8, netIncomings=1.0E8]
+                    echo "Pelicula:Film [spectators=40000, rooms=2000, incomings=8.0E7, netIncomings=6.4E7]
+                    echo "Pelicula:Film [spectators=30000, rooms=1500, incomings=4.5E7, netIncomings=3.6E7]
+                    echo "Pelicula:Film [spectators=20000, rooms=1000, incomings=2.0E7, netIncomings=1.6E7]
+                    echo "Pelicula:Film [spectators=10000, rooms=500, incomings=5000000.0, netIncomings=4000000.0]
+                }
+            }
+        }
+    }
+}
+

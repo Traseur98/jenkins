@@ -1711,3 +1711,231 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact io.projectrea
 2023-11-30 13:56:59,245 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-11-30 13:56:59,246 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\jenkinsII\src\main\resources
 2023-11-30 13:56:59,247 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-30 13:56:59,247 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\jenkinsII\src\test\resources
+2023-12-01 10:40:56,773 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-01 10:41:03,704 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-01 10:41:03,711 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\jenkins\src\main\resources
+2023-12-01 10:41:03,719 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-01 10:41:03,722 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\jenkins\src\test\resources
+2023-12-01 10:41:06,062 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 10:41:06,064 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\jenkinsII\src\main\resources
+2023-12-01 10:41:06,078 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 10:41:06,079 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\jenkinsII\src\test\resources
+2023-12-01 10:42:47,195 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [606])
+2023-12-01 10:42:47,211 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-12-01 10:42:47,212 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2023-12-01 10:42:47,212 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2023-12-01 10:42:47,212 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2023-12-01 10:42:47,213 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2023-12-01 10:42:47,213 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2023-12-01 10:42:47,213 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2023-12-01 10:42:47,214 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2023-12-01 10:42:47,214 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2023-12-01 10:42:47,214 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2023-12-01 10:42:47,215 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2023-12-01 10:42:47,215 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2023-12-01 10:42:47,215 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2023-12-01 10:42:47,215 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2023-12-01 10:42:47,215 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2023-12-01 10:42:47,216 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2023-12-01 10:42:47,216 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2023-12-01 10:42:47,216 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-12-01 10:42:47,217 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2023-12-01 10:42:47,218 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2023-12-01 10:42:47,218 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2023-12-01 10:42:47,218 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-12-01 10:42:47,219 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2023-12-01 10:42:47,219 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2023-12-01 10:42:47,219 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2023-12-01 10:42:47,219 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2023-12-01 10:42:47,219 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2023-12-01 10:42:47,219 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2023-12-01 10:42:47,221 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-12-01 10:42:47,221 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-12-01 10:42:47,221 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2023-12-01 10:42:47,221 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2023-12-01 10:42:47,221 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2023-12-01 10:42:47,221 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2023-12-01 10:42:47,222 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2023-12-01 10:42:47,222 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2023-12-01 10:42:47,222 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2023-12-01 10:42:47,222 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2023-12-01 10:42:47,222 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2023-12-01 10:42:47,224 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [10])
+2023-12-01 10:42:47,226 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2023-12-01 10:42:47,226 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [918])
+2023-12-01 10:42:47,227 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\slf4j.api_1.7.36.jar
+2023-12-01 10:42:47,227 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [32])
+2023-12-01 10:42:47,229 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-12-01 10:42:47,229 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [30])
+2023-12-01 10:42:47,231 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\pablo\Desktop\eclipse\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2023-12-01 10:42:47,236 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\pablo\AppData\Local\Temp\m2e-archetypeGenerator1263980575733362123":
+2023-12-01 10:42:47,240 [Worker-7: Launching mavenrun-9a78302c-2d2d-4546-a665-bfc452c35308] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DgroupId=integrador -DartifactId=integrador -Dversion=0.0.1-SNAPSHOT -Dpackage=integrador.integrador -DoutputDirectory="C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo" -Dstyle.color=always -U archetype:generate
+2023-12-01 10:43:05,614 [Worker-18: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\pom.xml
+2023-12-01 10:43:06,783 [Worker-18: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: integrador:integrador:0.0.1-SNAPSHOT @ C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\pom.xml.
+2023-12-01 10:43:07,276 [Worker-18: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /integrador/src/main/java
+2023-12-01 10:43:07,296 [Worker-18: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /integrador/src/test/java
+2023-12-01 10:43:07,538 [Worker-18: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2023-12-01 10:43:07,874 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 10:43:07,874 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 10:43:07,876 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 10:43:07,877 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 10:43:38,329 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jenkins:jenkins:1.0-SNAPSHOT @ C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\jenkins\pom.xml.
+2023-12-01 10:43:38,628 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-01 10:43:38,630 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\jenkins\src\main\resources
+2023-12-01 10:43:38,633 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-12-01 10:43:38,635 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\jenkins\src\test\resources
+2023-12-01 10:54:09,972 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 10:54:09,973 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 10:54:09,975 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 10:54:09,976 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 10:54:48,306 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 10:54:48,307 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 10:54:48,310 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 10:54:48,310 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 10:54:52,575 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 10:54:52,575 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 10:54:52,579 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 10:54:52,579 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 10:56:50,706 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 10:56:50,708 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 10:56:50,710 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 10:56:50,711 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 10:57:31,996 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 10:57:31,996 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 10:57:32,000 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 10:57:32,000 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 10:58:16,374 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 10:58:16,374 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 10:58:16,377 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 10:58:16,378 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 10:58:48,811 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 10:58:48,812 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 10:58:48,814 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 10:58:48,814 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:07:55,706 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:07:55,706 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:07:55,709 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:07:55,709 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:09:54,500 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:09:54,500 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:09:54,502 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:09:54,502 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:11:11,234 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:11:11,234 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:11:11,237 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:11:11,237 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:14:50,678 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:14:50,678 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:14:50,681 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:14:50,681 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:14:56,704 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:14:56,705 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:14:56,707 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:14:56,707 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:17:10,021 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:17:10,022 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:17:10,024 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:17:10,024 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:17:43,880 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:17:43,881 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:17:43,883 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:17:43,884 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:17:44,949 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:17:44,949 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:17:44,952 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:17:44,953 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:20:01,837 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:20:01,838 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:20:01,841 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:20:01,841 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:20:02,904 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:20:02,904 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:20:02,906 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:20:02,906 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:21:23,590 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:21:23,591 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:21:23,593 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:21:23,594 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:21:34,972 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:21:34,972 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:21:34,974 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:21:34,974 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:21:48,770 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:21:48,770 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:21:48,772 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:21:48,773 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:23:21,513 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:23:21,514 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:23:21,516 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:23:21,516 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:23:22,583 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:23:22,584 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:23:22,586 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:23:22,586 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:23:29,999 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:23:30,000 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:23:30,001 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:23:30,002 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:23:43,559 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:23:43,559 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:23:43,561 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:23:43,562 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:31:50,259 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:31:50,259 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:31:50,262 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:31:50,262 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:38:04,358 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:38:04,358 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:38:04,360 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:38:04,361 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:38:05,370 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:38:05,370 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:38:05,371 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:38:05,371 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:38:13,709 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:38:13,709 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:38:13,711 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:38:13,711 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:40:37,485 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:40:37,485 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:40:37,487 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:40:37,488 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:40:38,506 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:40:38,507 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:40:38,508 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:40:38,508 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:45:21,131 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:45:21,131 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:45:21,132 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:45:21,133 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 11:45:22,153 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:45:22,154 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 11:45:22,157 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 11:45:22,157 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 12:05:36,202 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 12:05:36,202 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 12:05:36,205 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 12:05:36,205 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 12:05:37,217 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 12:05:37,218 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 12:05:37,219 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 12:05:37,219 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 12:05:56,512 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 12:05:56,512 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 12:05:56,515 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 12:05:56,515 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 12:05:58,999 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 12:05:58,999 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 12:05:59,001 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 12:05:59,002 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 12:12:20,703 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 12:12:20,704 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 12:12:20,706 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 12:12:20,706 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 12:12:39,346 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 12:12:39,346 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
+2023-12-01 12:12:39,348 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 12:12:39,348 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\test\resources
+2023-12-01 12:23:23,497 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-12-01 12:23:23,497 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pablo\Desktop\Cursos Pablo\Java\Repo\integrador\src\main\resources
