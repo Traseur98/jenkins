@@ -15,7 +15,7 @@ public class Jenkins {
     jenkinsfile.append("                script {\n");
     for (Film f : films) {
       jenkinsfile.append(
-        "                    echo \"Pelicula:" + f.toString() + "\n"
+        "                    echo Pelicula:" + f.toString() + "\n"
       );
     }
     jenkinsfile.append("                }\n");
